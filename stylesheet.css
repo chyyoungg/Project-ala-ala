@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url();
   background-size: cover;
-  color: #dfe6e9;
+  color: #000000;
   text-align: center;
 }
 
@@ -51,21 +51,21 @@ a {
 }
 
 .signup {
-  background-color: #81ecec;
+  background-color: #c0392b;
 }
 
 .instagram {
-  background-color: #2d3436;
+  background-color: #f39c12;
   margin-right: 10px;
 }
 
 .twitter {
-  background-color: #0984e3;
+  background-color: #192a56;
 }
 
 .btn {
   padding: 12px 24px;
-  color: #dfe6e9;
+  color: #ffffff;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
@@ -82,7 +82,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: #d63031;
+  background-color: #c0392b;
   position: fixed;
   top: 0;
   z-index: 10;
@@ -99,32 +99,32 @@ header {
 
 .header-right {
   float: right;
-  background-color: #d63031;
+  background-color: #a30000;
   transition: all 0.5s;
 }
 
 .header-right:hover {
-  background-color: #2d3436;
+  background-color: #000000;
 }
 
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: #dfe6e9;
+  color: #ffffff;
   display: block;
 }
 
 .lesson-wrapper {
   height: 500px;
   padding-bottom: 80px;
-  background-color: #81ecec;
+  background-color: #0089d3;
   text-align: center;
 }
 
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
-  color: #74b9ff;
+  color: #000000;
 }
 
 .heading h2 {
@@ -144,7 +144,7 @@ header {
   position: absolute;
   top: 90px;
   width: 100%;
-  color: #dfe6e9;
+  color: #ffffff;
 }
 
 .txt-contents {
@@ -152,20 +152,20 @@ header {
   display: inline-block;
   margin-top: 20px;
   font-size: 15px;
-  color: #fdcb6e;
+  color: #ffd723;
 }
 
 .message-wrapper {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid rgb(255, 255, 255);
   padding-bottom: 80px;
   text-align: center;
 }
 
 .message {
   padding: 15px 40px;
-  background-color: #00cec9;
+  background-color: #d40000;
   cursor: pointer;
-  box-shadow: 0 7px #b2bec3;
+  box-shadow: 0 7px #000000;
 }
 
 .message:active {
@@ -179,7 +179,7 @@ footer img {
 }
 
 footer p {
-  color: #a29bfe;
+  color: #000000;
   font-size: 12px;
 }
 
